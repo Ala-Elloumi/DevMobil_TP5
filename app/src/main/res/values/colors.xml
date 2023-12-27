@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="grey">#BEBFBF</color>
+    <color name="gris">#D6D7D7</color>
+    <color name="consulterColor">#d54d7c</color>
+    <color name="consultationColor">#3585CD</color>
+</resources>
